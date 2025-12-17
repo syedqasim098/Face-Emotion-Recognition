@@ -5,7 +5,7 @@ You can **copy-paste this directly** into a `README.md` file in your repository.
 
 # Face Emotion Recognition using CNN
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements a **Facial Emotion Recognition system** using a **Convolutional Neural Network (CNN)** built with **TensorFlow and Keras**.
 The model classifies human facial expressions into **7 distinct emotion categories** using grayscale facial images.
@@ -20,7 +20,7 @@ The workflow covers:
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Custom CNN Architecture** optimized for facial emotion classification
 * **Data Augmentation** using `ImageDataGenerator` (scaling, shearing, zooming, horizontal flipping)
@@ -30,7 +30,7 @@ The workflow covers:
 
 ---
 
-## 🛠️ Technologies & Dependencies
+##  Technologies & Dependencies
 
 The project uses the following Python libraries:
 
@@ -51,7 +51,7 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset is expected to be stored in **Google Drive** and organized into training and testing directories.
 
@@ -84,7 +84,7 @@ During execution, the dataset is copied to:
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The CNN is built using a **Sequential** model consisting of:
 
@@ -113,7 +113,7 @@ The CNN is built using a **Sequential** model consisting of:
 
 ---
 
-## ▶️ Usage (Training & Evaluation)
+##  Usage (Training & Evaluation)
 
 This project is designed to run in **Google Colab** or any Jupyter environment.
 
@@ -158,7 +158,7 @@ This project is designed to run in **Google Colab** or any Jupyter environment.
 
 ---
 
-## 📊 Results (Sample)
+##  Results (Sample)
 
 | Metric    | Training | Testing |
 | --------- | -------- | ------- |
@@ -170,7 +170,7 @@ This project is designed to run in **Google Colab** or any Jupyter environment.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Implement **cross-validation**
 * Experiment with **advanced architectures** (ResNet, VGG, EfficientNet)
@@ -180,24 +180,16 @@ This project is designed to run in **Google Colab** or any Jupyter environment.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available for educational and research purposes.
 
 ---
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 * TensorFlow & Keras documentation
 * Open-source facial emotion datasets
 * Google Colab for GPU acceleration
 
----
 
-If you want, I can also:
-
-* Add **badges** (Python, TensorFlow, License)
-* Write a **short project description** for GitHub
-* Optimize it for **ML portfolio visibility**
-
-Just tell me 👍

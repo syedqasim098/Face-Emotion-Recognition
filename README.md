@@ -1,8 +1,3 @@
-Here is a **clean, professional, GitHub-ready `README.md`** version of your project.
-You can **copy-paste this directly** into a `README.md` file in your repository.
-
----
-
 # Face Emotion Recognition using CNN
 
 ##  Project Overview

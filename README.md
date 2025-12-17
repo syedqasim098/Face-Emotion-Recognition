@@ -1,7 +1,7 @@
 # Face-Emotion-Recognition
 
-##Emotion Detection using Convolutional Neural Networks (CNN)  
-Project Description
+## Emotion Detection using Convolutional Neural Networks (CNN)  
+Project Description  
 This project implements a deep learning model, specifically a Convolutional Neural Network (CNN), to classify human emotions from facial images. The model is trained to distinguish between 7 distinct emotional states using the Keras and TensorFlow libraries.
 The workflow includes data preparation, image augmentation, custom CNN model definition, training, and evaluation using common metrics like Precision, Recall, and F1-score.
 Features
